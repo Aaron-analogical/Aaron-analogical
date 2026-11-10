@@ -16,4 +16,4 @@ M.Sc. thesis rebuilt as a reproducible project. One command reruns the DSGE mode
 
 Python, SQL, dbt, Snowflake, Power BI, Microsoft Fabric, Dynare, Claude and LLM tooling
 
-[LinkedIn](https://www.linkedin.com/in/aaron-israel-89758313b)
+[Portfolio](https://aaron-analogical.github.io/) | [LinkedIn](https://www.linkedin.com/in/aaron-israel-89758313b)
