@@ -6,6 +6,9 @@ Economist by training, working in sustainable finance and business intelligence 
 
 ## Projects
 
+**[Technology Cost Transparency](https://github.com/Aaron-analogical/tech-cost-transparency)**
+Technology Business Management case study. Snowflake SQL attributes a $40.2M infrastructure cost base to products and applications and reconciles to the GL to the cent. A Power BI report adds variance analysis and what-if scenarios for cloud migration and vendor price increases. [Deck (PDF)](https://github.com/Aaron-analogical/tech-cost-transparency/blob/main/presentation/Meridian_Case_Study_Presentation.pdf)
+
 **[Economic Data Warehouse](https://github.com/Aaron-analogical/economic-dashboard)**
 ELT pipeline from the FRED and World Bank APIs to Postgres, dbt star schemas and Power BI. Runs daily on GitHub Actions. [dbt docs and lineage](https://aaron-analogical.github.io/economic-dashboard/)
 
